@@ -1,0 +1,36 @@
+# Gradle
+.gradle/
+build/
+
+# Android
+local.properties
+*.iml
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.aab
+
+# Logs
+*.log*.iml
+*.idea
+.gradle
+/logs/
+/local.properties
+/inspiration
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+*.logcat
+.vscode
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+/app/release/
